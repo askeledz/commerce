@@ -59,6 +59,13 @@ pnpm install
 pnpm dev
 ```
 
+Cypress:
+
+```bash
+yarn cypress:open
+yarn cypress:run
+```
+
 Your app should now be running on [localhost:3000](http://localhost:3000/).
 
 <details>
